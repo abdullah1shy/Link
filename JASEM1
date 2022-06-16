@@ -87,7 +87,7 @@ _set_bot () {
     echo "
 
     "
-    python3 -m sbb_b
+    python3 -m SOURCE-Picathon
 }
 
 _set_bot
